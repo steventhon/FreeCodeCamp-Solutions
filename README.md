@@ -1,6 +1,14 @@
 # FreeCodeCamp-Solutions
 Solutions to <a href="www.freecodecamp.com" target="_blank">Free Code Camp</a> questions and challenges. 
 
+How to navigate:
+
+On freecodecamp.com, challenge should read "(Title): (Challenge)".
+
+Click on appropriate folder "(Title)" and then to "(Challenge).(abbr)", if available.
+
+
+
 Feel free to contribute, edit, and/or explain answers.
 
 If you wish to contribute, please follow the naming and organization rules:
